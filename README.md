@@ -1,4 +1,8 @@
 # csv-analytics
+
+prerequisite:
+- .Net 8 SDK
+
 stack:
 - .Net 8 Console Application
 
